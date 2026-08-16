@@ -1,0 +1,5 @@
+st.image(
+    "outputs/roc_curve.png",
+    caption="ROC Curve",
+    use_container_width=True
+)

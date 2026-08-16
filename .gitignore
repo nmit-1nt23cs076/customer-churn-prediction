@@ -1,0 +1,19 @@
+venv/
+.venv/
+env/
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+.vscode/
+.env
+
+*.log
+*.tmp
+
+*.pkl
+*.joblib
+
+# Dataset
+data/*.csv
